@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\bin\Debug\Assignment6_ToDoList.exe.config
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\bin\Debug\Assignment6_ToDoList.exe
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\bin\Debug\Assignment6_ToDoList.pdb
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\obj\Debug\Assignment6_ToDoList.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\obj\Debug\Assignment6_ToDoList.AboutBox.resources
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\obj\Debug\Assignment6_ToDoList.MainForm.resources
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\obj\Debug\Assignment6_ToDoList.Properties.Resources.resources
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\obj\Debug\Assignment6_ToDoList.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\obj\Debug\Assignment6_ToDoList.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\obj\Debug\Assignment6_ToDoList.exe
+E:\Visual Studio Projects\Assignment6\Assignment6_ToDoList\obj\Debug\Assignment6_ToDoList.pdb
